@@ -1,10 +1,8 @@
 require 'net/http'
 require 'uri'
 require 'json'
-require 'byebug'
 
 class Joke
-
   def random_joke
     url = URI('https://joke3.p.rapidapi.com/v1/joke')
 

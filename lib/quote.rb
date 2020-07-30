@@ -1,7 +1,6 @@
 require 'net/http'
 require 'uri'
 require 'json'
-require 'byebug'
 
 class Quote
   def random_quote
@@ -17,6 +16,6 @@ class Quote
 
     response = http.request(request)
     response = JSON.parse(response.body)
-    response['content']
+    { content: response['content'], author: response['originator']['name'] }
   end
 end
