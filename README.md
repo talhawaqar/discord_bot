@@ -20,7 +20,7 @@ I am introducing this discord bot it will give reply when you say hi. This bot c
 
 - Ruby
 
-## Screenshot with<a name = "screenshot"></a>
+## Screenshot <a name = "screenshot"></a>
 
 ![screenshot](./lib/screenshot.png)
 
@@ -29,7 +29,7 @@ I am introducing this discord bot it will give reply when you say hi. This bot c
 - To clone the repo to your local repository. Follow this steps
 - <code> git clone https://github.com/talhawaqar/discord_bot.git</code>
 - <code> cd discord_bot</code>
-- Set up bot app in your discord account [@click here](https://github.com/talhawaqar) to get video tutorail
+- Set up bot app in your discord account [click here](https://www.loom.com/share/564affdc8acf476fbb5410402ae28add) to get video tutorail
 - <code>bin/main.rb</code>
 
 ### Run Tests
