@@ -63,5 +63,3 @@ Give a ⭐️ if you like this project!
 ## :thumbsup: Acknowledgements
 
 [Muhammad Talha Waqar](https://github.com/talhawaqar)<br>
-
-https://www.loom.com/share/564affdc8acf476fbb5410402ae28add
