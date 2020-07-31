@@ -14,7 +14,7 @@
 
 ## About <a name = "about"></a>
 
-I am introducing this discord bot it will give reply when you say hi. This bot can send you inspirational quotes and funny jokes to you when you press certain commands.
+I am introducing this discord bot it will give a reply when you say hi. This bot can send you inspirational quotes and funny jokes to you when you press certain commands.
 
 ## 🔧 Built with<a name = "with"></a>
 
@@ -62,4 +62,4 @@ Give a ⭐️ if you like this project!
 
 ## :thumbsup: Acknowledgements
 
-[Muhammad Talha Waqar](https://github.com/talhawaqar)<br>
+- [Microverse](https://www.microverse.org/) because of helping to build this project and TSE's for their feedback
