@@ -1,4 +1,5 @@
 require_relative '../lib/bot.rb'
+require 'discordrb'
 
 describe Bot do
   let(:my_bot) { Bot.new }
