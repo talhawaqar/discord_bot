@@ -17,4 +17,6 @@ jobs:
           gem install discordrb
           gem install dotenv-rails
       - name: RSpec Report
-        run: rspec --force-color --format documentation
+        run: 
+          rspec rspec ./spec/quote_spec.rb --force-color --format documentation
+          rspec ./spec/joke_spec.rb --force-color --format documentation
