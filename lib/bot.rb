@@ -18,17 +18,26 @@ class Bot
     end
 
     @bot.message(with_text: 'joke') do |event|
-      joke = Joke.new
-      joke = joke.random_joke
-      event.respond joke
+      event.respond find_joke
     end
 
     @bot.message(with_text: 'quote') do |event|
-      quote = Quote.new
-      quote = quote.random_quote
+      quote = find_quote
       event.respond "Quote is \"#{quote[:content]}\" \n Author: #{quote[:author]}"
     end
 
     @bot.run
+  end
+
+  private
+
+  def find_joke
+    joke = Joke.new
+    joke.random_joke
+  end
+
+  def find_quote
+    quote = Quote.new
+    quote.random_quote
   end
 end
