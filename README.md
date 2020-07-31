@@ -14,7 +14,10 @@
 
 ## About <a name = "about"></a>
 
-I am introducing this discord bot it will give a reply when you say hi. This bot can send you inspirational quotes and funny jokes to you when you press certain commands.
+I am introducing this discord bot my capstone project for the assessment of ruby at microverse. It will give a reply when you say hi. This bot can send you inspirational quotes and funny jokes to you when you use certain commands.
+When you type Hi the bot will great you
+When you type quote the bot will respond you with an inspirational quote
+When you type joke the bot will respond you with a joke
 
 ## 🔧 Built with<a name = "with"></a>
 
