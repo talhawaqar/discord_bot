@@ -25,7 +25,7 @@ When you type joke the bot will respond you with a joke
 
 ## Screenshot <a name = "screenshot"></a>
 
-![screenshot](./lib/screenshot.png)
+![screenshot](./screenshot.png)
 
 ## 🔨 Setup <a name = "setup"></a>
 
