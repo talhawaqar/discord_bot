@@ -15,5 +15,6 @@ jobs:
         run: |
           gem install --no-document rspec:'~>3.0'
           gem install discordrb
+          gem install dotenv-rails
       - name: RSpec Report
         run: rspec --force-color --format documentation
